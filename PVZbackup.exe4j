@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="9.0" transformSequenceNumber="3">
+  <directoryPresets config="E:/Files/IDEA/PZVbackup/out/artifacts/PZVbackup_jar" />
+  <application name="PVZbackup" distributionSourceDir="E:/Files/IDEA/PZVbackup/test" />
+  <executable name="PVZbackup" wrapperType="embed" executableDir="." redirectStderr="false" executableMode="console" />
+  <java mainClass="org.example.Main" minVersion="1.7" maxVersion="23" allowBetaVM="true">
+    <classPath>
+      <archive location="E:/Files/IDEA/PZVbackup/out/artifacts/PZVbackup_jar/PZVbackup.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
